@@ -1,4 +1,5 @@
-gui-remake - Es la gui de la pc, contiene los metodos para recibir la imagen, texto e hilos para ejecutar los sockets en paralelo.
-pcServerR - Contiene los metodos para cambiar el tamaño de la imagen, para obtener la placa y para el websocket.
-raspServer - Contiene metodos para enviar imagenes (fotos tomadas) y texto a traves de sockets.
-guir - Interfaz tentativa para seleccionar ip desde raspberry.
+- **gui-remake**: Es la GUI de la PC, contiene los métodos para recibir la imagen, texto e hilos para ejecutar los sockets en paralelo.
+- **pcServerR**: Contiene los métodos para cambiar el tamaño de la imagen, para obtener la placa y para el websocket.
+- **raspServer**: Contiene métodos para enviar imágenes (fotos tomadas) y texto a través de sockets.
+- **guir**: Interfaz tentativa para seleccionar IP desde Raspberry.
+- La carpeta de **tests** es donde están archivos para pruebas unitarias de sockets.
