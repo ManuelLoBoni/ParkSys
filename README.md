@@ -3,3 +3,5 @@
 - **raspServer**: Contiene métodos para enviar imágenes (fotos tomadas) y texto a través de sockets.
 - **guir**: Interfaz tentativa para seleccionar IP desde Raspberry.
 - La carpeta de **tests** es donde están archivos para pruebas unitarias de sockets.
+
+- Recordar revisar requirements y hacer un entorno virtual.
